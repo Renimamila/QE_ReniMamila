@@ -1,5 +1,6 @@
 ANSWER!!
 1) Pada fase apa saja QE berperan pada proses SDLC? Sebutkan dan jelaskan peran seperti apa yang QE dapat lakukan pada setiap fase tersebut!
+    
     A. Perencanaan Sistem (Systems Planning)
     Lebih menekankan pada aspek studi kelayakan pengembangan sistemÂ (feasibility study). Aktivitas-aktivitas yang ada meliputi :
     • Pembentukan dan konsolidasi tim pengembang.
